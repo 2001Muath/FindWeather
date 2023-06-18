@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Broadcasts</string>
+    <string name="start_task">Start task</string>
+    <string name="i_m_ready_to_start_work">I`m ready to start work</string>
+</resources>
